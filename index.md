@@ -3,9 +3,9 @@
 If you have any questions about this research, please contact:
 
 **Erin MacDougall**  
-Undergraduate Researcher  
-Dalhousie University  
-Email: erinmacdougall@dal.ca
+🔎 Undergraduate Researcher  
+🎓 Dalhousie University  
+📧 Email: erinmacdougall@dal.ca
 
 ---
 
