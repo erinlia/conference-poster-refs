@@ -1,4 +1,4 @@
-# 📚 Poster Presentation: Exploring Reading Difficulties and Alcohol Use in University Students
+# 📚 Poster Presentation: Exploring the Impact of Alcohol Use and Reading Difficulties on GPA in University Students
 
 ## Contact Information
 
