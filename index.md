@@ -1,4 +1,4 @@
-# 📚 Poster: Exploring Reading Difficulties and Alcohol Use in University Students
+# 📚 Poster Presentation: Exploring Reading Difficulties and Alcohol Use in University Students
 
 ## Contact Information
 
