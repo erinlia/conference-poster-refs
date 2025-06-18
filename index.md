@@ -1,4 +1,6 @@
-# Contact Information
+# 📚 Poster: Exploring Reading Difficulties and Alcohol Use in University Students
+
+## Contact Information
 
 If you have any questions about this research, please contact:
 
@@ -9,14 +11,14 @@ If you have any questions about this research, please contact:
 
 ---
 
-# Supplemental Materials
+## Supplemental Materials
 
 - 📄 [Download the poster (PDF)](Poster.pdf)  
 - 📄 [Additional study information, including an overview, examples of administered items, and full results tables (PDF)](Additional%20Study%20Information.pdf)
 
 ---
 
-# References
+## References
 
 1. Howard-Gosse, A., Bergey, B. W., & Deacon, S. H. (2024). The reading challenges, strategies, and habits of university students with a history of reading difficulties and their relations to academic achievement. *Journal of Learning Disabilities, 57*(2), 91–105. [https://doi.org/10.1177/00222194231190678](https://doi.org/10.1177/00222194231190678)
 
@@ -32,7 +34,7 @@ If you have any questions about this research, please contact:
 
 ---
 
-## Measures
+### Measures
 
 - Parrila, R., Georgiou, G., & Corkett, J. (2007). University students with a significant history of reading difficulties: What is and is not compensated? *Exceptionality Education International, 17*(2). [https://doi.org/10.5206/eei.v17i2.7604](https://doi.org/10.5206/eei.v17i2.7604)
 
