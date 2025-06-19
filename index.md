@@ -14,7 +14,7 @@ If you have any questions about this research, please contact:
 ## Supplemental Materials
 
 - 📄 [Download the poster (PDF)](Poster.pdf)  
-- 📄 [Additional study information, including an overview, examples of administered items, and full results tables (PDF)](Additional%20Study%20Information.pdf)
+- 📄 [Additional study information, including an overview, examples of administered items, and full results tables (PDF)](supplemental.pdf)
 
 ---
 
